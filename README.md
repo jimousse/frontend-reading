@@ -1,2 +1,7 @@
-# frontend-interviews
-Front-end resources to prepare for interviews
+# Frontend Reading list
+
+## JavaScript
+## CSS
+## React
+## Redux
+## Browsers
