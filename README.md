@@ -6,7 +6,7 @@
   * https://javascript.info/
 ### Articles, concepts, issues
 ##### Web Components
-  * https://developers.google.com/web/fundamentals/web-components/?authuser=0
+  * https://developers.google.com/web/fundamentals/web-components/
 ##### Debouncing
   * https://davidwalsh.name/javascript-debounce-function
 ##### Generators
