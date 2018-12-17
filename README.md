@@ -13,6 +13,8 @@
   * https://davidwalsh.name/es6-generators
 ##### Performance
   * https://github.com/lodash/lodash/issues/1984
+##### Interview Questions
+  * https://www.toptal.com/javascript/interview-questions
 ## CSS
 #### Tutorials
   * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
@@ -20,6 +22,7 @@
   * https://sass-lang.com/
 ## React
   * https://reactjs.org/docs/getting-started.html
+  * https://github.com/sudheerj/reactjs-interview-questions#what-is-react
 ## Redux
   * https://redux.js.org/
   * https://redux-saga.js.org/
