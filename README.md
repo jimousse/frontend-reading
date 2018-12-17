@@ -4,7 +4,7 @@
 ### Books
   * https://github.com/getify/You-Dont-Know-JS
   * https://javascript.info/
-### Articles, concepts, issues
+### Interview questions, articles, concepts, issues
 ##### Web Components
   * https://developers.google.com/web/fundamentals/web-components/
 ##### Debouncing
@@ -15,6 +15,7 @@
   * https://github.com/lodash/lodash/issues/1984
 ##### Interview Questions
   * https://www.toptal.com/javascript/interview-questions
+  * https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
 ## CSS
 #### Tutorials
   * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
