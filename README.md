@@ -7,12 +7,11 @@
 ### Interview questions, articles, concepts, issues
 ##### Web Components
   * https://developers.google.com/web/fundamentals/web-components/
-##### Debouncing
-  * https://davidwalsh.name/javascript-debounce-function
-##### Generators
+##### ES6
   * https://davidwalsh.name/es6-generators
 ##### Performance
   * https://github.com/lodash/lodash/issues/1984
+  * https://davidwalsh.name/javascript-debounce-function
 ##### Interview Questions
   * https://www.toptal.com/javascript/interview-questions
   * https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
