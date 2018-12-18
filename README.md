@@ -20,8 +20,11 @@
   * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 #### Frameworks
   * https://sass-lang.com/
+#### Interview questions
+  * https://www.goskills.com/Development/Articles/CSS-interview-questions-answers
 ## React
   * https://reactjs.org/docs/getting-started.html
+#### Interview questions
   * https://github.com/sudheerj/reactjs-interview-questions#what-is-react
 ## Redux
   * https://redux.js.org/
