@@ -15,6 +15,11 @@
 ##### Interview Questions
   * https://www.toptal.com/javascript/interview-questions
   * https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+##### Conceptual articles
+  * Prototype and inheritance: https://davidwalsh.name/javascript-objects
+  * Prototype chain: https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29
+  * Javascript Mixins: https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
+  * Little deeper understanding of 'this': https://alistapart.com/article/getoutbindingsituations
 ## CSS
 #### Tutorials
   * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
