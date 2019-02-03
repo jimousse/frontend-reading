@@ -21,6 +21,7 @@
   * Javascript Mixins: https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
   * Little deeper understanding of 'this': https://alistapart.com/article/getoutbindingsituations
   * Currying and partial application: http://benalman.com/news/2012/09/partial-application-in-javascript/
+  * Tasks, microtasks, event queue: https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
 ## CSS
 #### Tutorials
   * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
