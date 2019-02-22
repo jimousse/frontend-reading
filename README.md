@@ -17,6 +17,7 @@
   * https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
   * https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4
 ##### Conceptual articles
+  * `this`: https://codeburst.io/the-simple-rules-to-this-in-javascript-35d97f31bde3
   * Prototype and inheritance: https://davidwalsh.name/javascript-objects
   * Prototype chain: https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29
   * Javascript Mixins: https://javascriptweblog.wordpress.com/2011/05/31/a-fresh-look-at-javascript-mixins/
