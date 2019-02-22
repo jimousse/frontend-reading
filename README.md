@@ -15,6 +15,7 @@
 ##### Interview Questions
   * https://www.toptal.com/javascript/interview-questions
   * https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z
+  * https://codeburst.io/clearing-your-front-end-job-interview-javascript-d5ec896adda4
 ##### Conceptual articles
   * Prototype and inheritance: https://davidwalsh.name/javascript-objects
   * Prototype chain: https://hackernoon.com/understand-nodejs-javascript-object-inheritance-proto-prototype-class-9bd951700b29
@@ -22,6 +23,9 @@
   * Little deeper understanding of 'this': https://alistapart.com/article/getoutbindingsituations
   * Currying and partial application: http://benalman.com/news/2012/09/partial-application-in-javascript/
   * Tasks, microtasks, event queue: https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+## HTML
+#### Interview questions
+  * https://codeburst.io/clearing-your-front-end-job-interview-html-706f8b2c7dca
 ## CSS
 #### Tutorials
   * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
@@ -29,6 +33,7 @@
   * https://sass-lang.com/
 #### Interview questions
   * https://www.goskills.com/Development/Articles/CSS-interview-questions-answers
+  * https://codeburst.io/clearing-your-front-end-job-interview-css-95bdd82871f2
 ## React
   * https://reactjs.org/docs/getting-started.html
 #### Interview questions
