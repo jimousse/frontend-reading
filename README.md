@@ -23,6 +23,7 @@
   * Little deeper understanding of 'this': https://alistapart.com/article/getoutbindingsituations
   * Currying and partial application: http://benalman.com/news/2012/09/partial-application-in-javascript/
   * Tasks, microtasks, event queue: https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
+  * Event delegation: https://davidwalsh.name/event-delegate
 ## HTML
 #### Interview questions
   * https://codeburst.io/clearing-your-front-end-job-interview-html-706f8b2c7dca
