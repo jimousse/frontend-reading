@@ -25,6 +25,7 @@
   * Currying and partial application: http://benalman.com/news/2012/09/partial-application-in-javascript/
   * Tasks, microtasks, event queue: https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/
   * Event delegation: https://davidwalsh.name/event-delegate
+  * Modules: https://auth0.com/blog/javascript-module-systems-showdown/
 ## HTML
 #### Interview questions
   * https://codeburst.io/clearing-your-front-end-job-interview-html-706f8b2c7dca
